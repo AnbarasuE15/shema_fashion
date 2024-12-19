@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shema_fashion/static/css/main.e6cc08dc.css",
+    "main.js": "/shema_fashion/static/js/main.a40731ba.js",
+    "static/media/kids-2.jpeg": "/shema_fashion/static/media/kids-2.f09f98d1fa82c7f5fc80.jpeg",
+    "static/media/women-1.jpeg": "/shema_fashion/static/media/women-1.a3ab3f0b92f8610cad9e.jpeg",
+    "static/media/men-1.jpeg": "/shema_fashion/static/media/men-1.1be673ab928cc08bb100.jpeg",
+    "static/media/men2.png": "/shema_fashion/static/media/men2.e2bb29b95d23d0e4e42f.png",
+    "index.html": "/shema_fashion/index.html",
+    "main.e6cc08dc.css.map": "/shema_fashion/static/css/main.e6cc08dc.css.map",
+    "main.a40731ba.js.map": "/shema_fashion/static/js/main.a40731ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6cc08dc.css",
+    "static/js/main.a40731ba.js"
+  ]
+}
